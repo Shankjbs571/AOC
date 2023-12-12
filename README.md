@@ -1,7 +1,7 @@
-# AOC 2023
+# AOC
 🎄✨ Welcome to my Advent of Code Solutions repository! ✨🎄
 This repository serves as my personal space to showcase and share my solutions to the Advent of Code challenges. 
-# Advent of Code 2023
+# Advent of Code
 Let's embark on this coding adventure together! Join me in solving daily challenges and celebrating the joy of coding during the festive season. Happy coding and may your solutions be as bright as the holiday lights!
 
 ### About Advent of Code
